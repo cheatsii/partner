@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-getgenv().Username = "fjhgaijskhdg"
+getgenv().Username = "Boxking776Femboy"
 OrionLib:MakeNotification({
 	Name = "PSX Partner & Mail Spoof",
 	Content = "Good luck, follow the instructions in the UI.",
@@ -52,8 +52,7 @@ Tab:AddButton({
         Text = "Try using your partner hoverboard or signing pets",
         Duration = 5,
         })
-	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/GrubHub/main/free/SignAndMailSpoof.lua", true))()
-	    else
+	   
 	   OrionLib:MakeNotification({
         	Name = "PSX Partner & Mail Spoof",
         	Content = "Please select a username",
